@@ -1,7 +1,10 @@
 Rencana Web Site
 - Membuat login
   #Membuat auth
+   $CSS
+   $HTML
   #Membuat Session
 - Strucktur Data datat
 - Membuat hak aksess
 - Membuat menu
+- Pthon
